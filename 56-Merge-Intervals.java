@@ -2,6 +2,7 @@ class Solution {
     public int[][] merge(int[][] intervals) {
         int m = intervals.length;
         List<Integer> l = new ArrayList<>();
+        ArrayList<int[]> ans =new ArrayList<>();
         Arrays.sort(intervals,Comparator.comparingInt(o -> o[0]));
         int max = 0;
         for(int i=0;i<m;i++){
@@ -17,13 +18,8 @@ class Solution {
             }
             l.add(start);
             l.add(max);
+            ans.add(new int[]{start,max});
         } 
-        int ans[][] = new int[l.size()/2][2];
-        int j = 0;
-        for(int i=0;i<l.size();i=i+2){
-            ans[j][0] = l.get(i);
-            ans[j++][1] = l.get(i+1); 
-        }
-        return ans;  
+        return ans.toArray(new int[ans.size()][]);  
     }
 }
