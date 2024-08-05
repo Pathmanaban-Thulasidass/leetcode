@@ -9,10 +9,10 @@ class Solution {
         map.put('C',100);
         map.put('D',500);
         map.put('M',1000);
-        List<Character> list = Arrays.asList('I','V','X','L','C','D','M');
+        // List<Character> list = Arrays.asList('I','V','X','L','C','D','M');
         int i;
         for(i=0; i<s.length() - 1 ; i++){
-            if(list.indexOf(s.charAt(i)) < list.indexOf(s.charAt(i+1))){
+            if(map.get(s.charAt(i)) < map.get(s.charAt(i+1))){
                 ans += map.get(s.charAt(i+1)) - map.get(s.charAt(i));
                 i++;
             }
