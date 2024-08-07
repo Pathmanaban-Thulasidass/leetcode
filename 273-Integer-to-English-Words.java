@@ -43,7 +43,6 @@ public class Solution {
 
         StringBuffer sb = new StringBuffer(\\);
 
-        // Process each group (Billion, Million, Thousand, Hundreds)
         for (int i = 0; i < 4; i++) {
             int chunk = num % 1000;
             if (chunk != 0) {
@@ -51,11 +50,10 @@ public class Solution {
                 if (sb.length() > 0) {
                     sb.insert(0, \ \);
                 }
-                sb.insert(0, chunkStr + (suffix[i].isEmpty() ? \\ : \ \ + suffix[i]));
+                sb.insert(0, chunkStr + (suffix[i].isEmpty() ? \\ : \ \ + suffix[i])  );
             }
             num /= 1000;
         }
-
         return sb.toString().trim();
     }
 
@@ -71,13 +69,13 @@ public class Solution {
             }
         }
 
-        if (remainder != 0) {
+        if(remainder != 0) {
             if (remainder < 20) {
                 chunk.append(ones_map.get(remainder));
             } else {
-                int tens = remainder / 10 * 10;
+                int tens = remainder / 10;
                 int ones = remainder % 10;
-                chunk.append(tens_map.get(tens));
+                chunk.append(tens_map.get(tens  * 10));
                 if (ones != 0) {
                     chunk.append(\ \).append(ones_map.get(ones));
                 }
