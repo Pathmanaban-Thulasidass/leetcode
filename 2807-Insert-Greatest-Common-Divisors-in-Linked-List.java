@@ -26,17 +26,11 @@ class Solution {
         return head;
     }
     int findGCD(int a,int b){
-        int ans = 1;
-        int max = Integer.MIN_VALUE;
-        if(a < b)
-            max = b;
-        else
-            max = a;
-        for(int i=1;i<=max;i++){
-            if((a%i) == 0 && (b%i) == 0){
-                ans = i;
-            }
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        return ans;
+        return a;
     }
 }
