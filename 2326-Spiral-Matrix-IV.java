@@ -13,9 +13,7 @@ class Solution {
         int[][] matrix = new int[rs][cs];
         ListNode temp = head;
         for(int i=0;i<rs;i++){
-            for(int j=0;j<cs;j++){
-                matrix[i][j] = -1;
-            }
+            Arrays.fill(matrix[i], -1);
         }
         int m = matrix.length;
         int n = matrix[0].length;
