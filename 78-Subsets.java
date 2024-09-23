@@ -1,17 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        int size = 1 << n;
         List<List<Integer>> ans = new ArrayList<>();
-        for(int i=0;i<size;i++){
-            List<Integer> inner = new ArrayList<>();
-            for(int j=0;j<n;j++){
-                if((i & 1 << j) != 0){
-                    inner.add(nums[j]);
-                }
-            }
-            ans.add(inner);
-        }
+        List<Integer> inner = new ArrayList<>();
+        subSetRecur(0,nums,inner,ans);
         return ans;
+    }
+    public void subSetRecur(int index,int nums[],List<Integer> inner,List<List<Integer>> ans){
+        if(index >= nums.length){
+            ans.add(new ArrayList<>(inner));
+            return;
+        }
+        //take
+        inner.add(nums[index]);
+        subSetRecur(index + 1,nums,inner,ans);
+        //dont take
+        inner.remove(inner.size() - 1);
+        subSetRecur(index + 1,nums,inner,ans);
     }
 }
