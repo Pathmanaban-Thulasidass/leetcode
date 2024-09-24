@@ -1,21 +1,18 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Set<List<Integer>> ans = new HashSet<>();
         Arrays.sort(nums);
-        List<Integer> inner = new ArrayList<>();
-        subSetRecur(0,nums,inner,ans);
-        return new ArrayList<>(ans);
+        List<List<Integer>> ans = new ArrayList<>();
+        subSetRecur(0,nums,new ArrayList<>(),ans);
+        return ans;
     }
-    public void subSetRecur(int index,int nums[],List<Integer> inner,Set<List<Integer>> ans){
-        if(index >= nums.length){
-            ans.add(new ArrayList<>(inner));
-            return;
+    public void subSetRecur(int index,int nums[],List<Integer> inner,List<List<Integer>> ans){
+        ans.add(new ArrayList<>(inner));
+        for(int i=index;i<nums.length;i++){
+            if(i > index && nums[i] == nums[i-1]) continue;
+
+            inner.add(nums[i]);
+            subSetRecur(i + 1,nums,inner,ans);
+            inner.remove(inner.size() - 1);
         }
-        //take
-        inner.add(nums[index]);
-        subSetRecur(index + 1,nums,inner,ans);
-        //dont take
-        inner.remove(inner.size() - 1);
-        subSetRecur(index + 1,nums,inner,ans);
     }
 }
