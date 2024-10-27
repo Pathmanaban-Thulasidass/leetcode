@@ -15,20 +15,19 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return preOrder(root);
+        return maxHeight(root) != -1;
     }
-    public boolean preOrder(TreeNode root){
-        if(root == null)
-            return true;
-        if(Math.abs(maxHeight(root.left) - maxHeight(root.right)) > 1)
-            return false;
-        return preOrder(root.left) && preOrder(root.right);
-    } 
-    public int maxHeight(TreeNode root){
-        if(root == null)
+
+    public int maxHeight(TreeNode root) {
+        if(root == null){
             return 0;
-        int height = 1;
-        height += Math.max(maxHeight(root.left),maxHeight(root.right));
-        return height;
+        }
+        int leftHeight = maxHeight(root.left);
+        int rightHeight = maxHeight(root.right);
+        if(leftHeight == -1 || rightHeight == -1)
+            return -1;
+        if(Math.abs(leftHeight - rightHeight) > 1)
+            return -1;
+        return Math.max(leftHeight,rightHeight) + 1;
     }
 }
