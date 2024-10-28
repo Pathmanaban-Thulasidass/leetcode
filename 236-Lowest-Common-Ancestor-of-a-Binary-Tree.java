@@ -9,41 +9,21 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode> ancestorsOfP = new ArrayList<>();
-        List<TreeNode> ancestorsOfQ = new ArrayList<>();
-        findAncestors(root,p,new ArrayList<>(),ancestorsOfP);
-        findAncestors(root,q,new ArrayList<>(),ancestorsOfQ);
-        if(ancestorsOfP.contains(q)){
-            return q;
-        }
-        else if(ancestorsOfQ.contains(p)){
-            return p;
-        }
-        int i = 0;
-        TreeNode ans = null;
-        while(i < ancestorsOfP.size() && i < ancestorsOfQ.size()){
-            if(ancestorsOfP.get(i) == ancestorsOfQ.get(i)){
-                ans = ancestorsOfP.get(i);
-                i++;
-            }
-            else{
-                return ans;
-            }
-        }
-        return ans;
+        return helper(root,p,q);
     }
-    //Pre-order Traversal
-    public void findAncestors(TreeNode root,TreeNode val,List<TreeNode> inner,List<TreeNode> ancestors){
-        if(root == null){
-            return;
-        }
-        if(root == val){
-            ancestors.addAll(inner);
-            return;
-        }
-        inner.add(root);
-        findAncestors(root.left,val,inner,ancestors);
-        findAncestors(root.right,val,inner,ancestors);
-        inner.remove(inner.size() - 1);
+    public TreeNode helper(TreeNode root, TreeNode p, TreeNode q){
+        if(root == null || root == p || root == q)
+            return root;
+        
+        TreeNode left = helper(root.left,p,q);
+        TreeNode right = helper(root.right,p,q);
+    
+        if(left == null)
+            return right;
+        else if(right == null)
+            return left;
+        else // If both right and left return not null means the current standing root is ans (LCA)
+            return root;
     }
+
 }
