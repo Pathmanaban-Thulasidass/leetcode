@@ -19,33 +19,31 @@ class Solution {
         else if(ancestorsOfQ.contains(p)){
             return p;
         }
-        int pPtr = ancestorsOfP.size() - 1;
-        int qPtr = ancestorsOfQ.size() - 1;
-        while(pPtr >= 0 && qPtr >= 0){
-            if(ancestorsOfP.contains(ancestorsOfQ.get(qPtr))){
-                return ancestorsOfQ.get(qPtr);
+        int i = 0;
+        TreeNode ans = null;
+        while(i < ancestorsOfP.size() && i < ancestorsOfQ.size()){
+            if(ancestorsOfP.get(i) == ancestorsOfQ.get(i)){
+                ans = ancestorsOfP.get(i);
+                i++;
             }
-            else if(ancestorsOfQ.contains(ancestorsOfP.get(pPtr))){
-                return ancestorsOfP.get(pPtr);
+            else{
+                return ans;
             }
-            pPtr--;
-            qPtr--;
         }
-        return null;
+        return ans;
     }
     //Pre-order Traversal
     public void findAncestors(TreeNode root,TreeNode val,List<TreeNode> inner,List<TreeNode> ancestors){
         if(root == null){
             return;
         }
-        inner.add(root);
         if(root == val){
             ancestors.addAll(inner);
             return;
-        }else{
-            findAncestors(root.left,val,inner,ancestors);
-            findAncestors(root.right,val,inner,ancestors);
         }
+        inner.add(root);
+        findAncestors(root.left,val,inner,ancestors);
+        findAncestors(root.right,val,inner,ancestors);
         inner.remove(inner.size() - 1);
     }
 }
