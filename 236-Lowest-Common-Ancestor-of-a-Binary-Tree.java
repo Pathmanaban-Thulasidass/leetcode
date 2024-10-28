@@ -38,13 +38,14 @@ class Solution {
         if(root == null){
             return;
         }
+        inner.add(root);
         if(root == val){
             ancestors.addAll(inner);
             return;
+        }else{
+            findAncestors(root.left,val,inner,ancestors);
+            findAncestors(root.right,val,inner,ancestors);
         }
-        inner.add(root);
-        findAncestors(root.left,val,inner,ancestors);
-        findAncestors(root.right,val,inner,ancestors);
         inner.remove(inner.size() - 1);
     }
 }
