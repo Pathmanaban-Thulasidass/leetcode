@@ -14,25 +14,23 @@
  * }
  */
 class Solution {
-    PriorityQueue<Integer> pq = new PriorityQueue<>((a,b) -> b - a);
+    int k;
+    int ans = 0;
     public int kthSmallest(TreeNode root, int k) {
-        helper(root,k);
-        return pq.peek();
+        this.k = k;
+        helper(root);
+        return ans;
     }
-    public void helper(TreeNode root,int k){
+    public void helper(TreeNode root){
         if(root == null)
             return;
-        add(root.val,k);
-        helper(root.left,k);
-        helper(root.right,k);
+        helper(root.left);
+        k--;
+        if(k == 0){
+            ans = root.val;
+            return;
+        }
+
+        helper(root.right);
     }
-    public void add(int val,int k){
-        if(pq.size() == k && pq.peek() >= val){
-            pq.poll();
-            pq.add(val);
-        }
-        else if(pq.size() < k){
-            pq.add(val);
-        }
-    } 
 }
