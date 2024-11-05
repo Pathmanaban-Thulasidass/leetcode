@@ -6,23 +6,20 @@ class Solution {
         boolean visited[] = new boolean[n+1];
         for(int k=0;k<n;k++){
             if(!visited[k]){
-                queue.add(k);
-                visited[k] = true;
-                while(!queue.isEmpty()){
-                    int size = queue.size();
-                    for(int i=0;i<size;i++){
-                        int curVer = queue.poll();
-                        for(int j=0;j<n;j++){
-                            if(adj[curVer][j] == 1 && !visited[j]){
-                                queue.add(j);
-                                visited[j] = true;
-                            }
-                        }
-                    }
-                }
+                dfs(k,n,visited,adj);
                 count++;
             }
         }
         return count;
+    }
+    public void dfs(int vertex,int n,boolean[] visited,int[][] adj){
+        if(visited[vertex])
+            return;
+        visited[vertex] = true;
+        for(int i=0;i<n;i++){
+            if(adj[vertex][i] == 1 && !visited[i]){
+                dfs(i,n,visited,adj);
+            }
+        }
     }
 }
