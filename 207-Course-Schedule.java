@@ -9,7 +9,6 @@ class Solution {
         for(int i=0;i<prerequisites.length;i++){
             adj.get(prerequisites[i][1]).add(prerequisites[i][0]);
         }
-        System.out.println(adj);
         for(int i=0;i<n;i++){
             if(!visited[i]){
                 if(helperDFS(i,visited,path,adj))
