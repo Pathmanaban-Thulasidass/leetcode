@@ -1,0 +1,28 @@
+class Solution {
+    public boolean isBipartite(int[][] graph) {
+        int n = graph.length;
+        int visited[] = new int[n];
+        Arrays.fill(visited,-1);
+        for(int i=0;i<n;i++){
+            if(visited[i] == -1){
+                if(!helperDFS(i,-1,0,visited,graph))
+                    return false;
+            }
+        }
+        return helperDFS(0,-1,0,visited,graph);
+    }
+    public boolean helperDFS(int vertex,int parent,int color,int visited[],int[][] graph){
+        visited[vertex] = color;
+        for(int adjVal : graph[vertex]){
+            if(visited[adjVal] == -1){
+                //Un Visited
+                if(!helperDFS(adjVal,vertex,color ^ 1 ^ 0,visited,graph))
+                    return false;
+            }
+            else if(visited[adjVal] == color){
+                return  false;
+            }
+        }
+        return true;
+    }
+}
