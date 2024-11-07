@@ -1,33 +1,33 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
-        boolean[] path = new boolean[n];
-        boolean[] visited = new boolean[n];
-        boolean[] safe = new boolean[n];
+        int indegree[] = new int[n];
         List<Integer> ans = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-            if (!isCycle(i, path, visited, safe, graph)) {
-                ans.add(i);
+        Queue<Integer> queue = new LinkedList<>();
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<graph[i].length;j++){
+                adj.get(graph[i][j]).add(i);
+                indegree[i]++;
             }
         }
+        for(int i=0;i<n;i++){
+            if(indegree[i] == 0)
+                queue.add(i);
+        }
+        while(!queue.isEmpty()){
+            int curVer = queue.poll();
+            for(int adjVer : adj.get(curVer)){
+                indegree[adjVer]--;
+                if(indegree[adjVer] == 0)
+                    queue.add(adjVer);
+            }
+            ans.add(curVer);
+        }
+        Collections.sort(ans);
         return ans;
-    }
-
-    public boolean isCycle(int vertex, boolean[] path, boolean[] visited, boolean[] safe, int[][] graph) {
-        if (visited[vertex]) return !safe[vertex]; // It mean if we are already  visited mean we know if the vertex is visited or not by safe boolean arr;
-        
-        visited[vertex] = true;
-        path[vertex] = true;
-        for (int adjVer : graph[vertex]) {
-            if (!visited[adjVer] && isCycle(adjVer, path, visited, safe, graph)) {
-                return true;
-            } else if (path[adjVer]) {
-                return true;
-            }
-        }
-        path[vertex] = false;
-        safe[vertex] = true; // Mark node as safe after checking all paths becaues there is no cycle found 
-        return false;
     }
 }
