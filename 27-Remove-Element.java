@@ -5,7 +5,7 @@ class Solution {
             return 0;
         int left = 0;
         int right = n - 1;
-        while(left <= right){
+        while(left < right){
             while(left < n && nums[left] != val)
                 left++;
             while(right >= 0 && nums[right] == val)
