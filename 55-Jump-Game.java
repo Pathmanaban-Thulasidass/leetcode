@@ -3,11 +3,9 @@ class Solution {
         int n = nums.length;
         int maxDis = 0;
         for(int i=0;i<n;i++){
-            if(maxDis < (nums[i] + i)){
-                if(maxDis < i)
-                    return false;
-                maxDis = (nums[i] + i); 
-            }
+            if(i > maxDis)
+                return false;
+            maxDis = Math.max(maxDis,i + nums[i]);
         }
         return true;
     }
