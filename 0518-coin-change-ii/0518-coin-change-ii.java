@@ -1,20 +1,23 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int n = coins.length;
-        return helper(n-1,amount,coins,new Integer[n][amount + 1]);
-    }
-    public int helper(int index,int target,int nums[],Integer[][] dp){
-        if(index == 0){
-            if(target % nums[0] == 0 || target == 0)
-                return 1;
-            return 0;
+        int dp[][] = new int[n][amount + 1];
+        for(int i=0;i<n;i++){
+            dp[i][0] = 1;
         }
-        if(dp[index][target] != null)
-            return dp[index][target];
-        int notPick = helper(index - 1,target,nums,dp);
-        int pick = 0;
-        if(target >= nums[index])
-            pick = helper(index,target - nums[index],nums,dp);
-        return dp[index][target] = pick + notPick;
+        for(int i=0;i<=amount;i++){
+            if(i % coins[0] == 0)
+                dp[0][i] = 1;
+        }
+        for(int index=1;index<n;index++){
+            for(int target=1;target<=amount;target++){
+                int notPick = dp[index - 1][target];
+                int pick = 0;
+                if(target >= coins[index])
+                    pick = dp[index][target - coins[index]];
+                dp[index][target] = pick + notPick;
+            }
+        }
+        return dp[n - 1][amount];
     }
 }
