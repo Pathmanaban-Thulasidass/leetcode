@@ -40,10 +40,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
