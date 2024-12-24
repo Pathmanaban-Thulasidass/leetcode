@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
@@ -60,4 +62,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
