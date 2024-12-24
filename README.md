@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
@@ -49,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
