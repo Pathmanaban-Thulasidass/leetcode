@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -50,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
