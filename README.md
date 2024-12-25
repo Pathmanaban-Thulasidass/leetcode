@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
+| [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
 ## Design
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
