@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
