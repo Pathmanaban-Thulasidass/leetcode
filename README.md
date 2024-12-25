@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -107,4 +108,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
