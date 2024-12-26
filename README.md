@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0238-product-of-array-except-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
+| [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
@@ -142,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
+| [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
@@ -154,5 +156,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
