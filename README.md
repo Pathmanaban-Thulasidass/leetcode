@@ -95,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -123,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Design
 |  |
 | ------- |
