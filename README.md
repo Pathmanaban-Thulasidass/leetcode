@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0907-koko-eating-bananas](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2358-number-of-ways-to-split-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -107,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
 | ------- |
@@ -172,6 +175,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
@@ -222,4 +226,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
