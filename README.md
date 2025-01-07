@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -180,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0498-diagonal-traverse](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,4 +272,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
