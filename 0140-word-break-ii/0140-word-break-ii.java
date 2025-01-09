@@ -12,15 +12,10 @@ class Solution {
     }
 
     public void helper(int startIndex,int endIndex,String s,List<String> inner,List<String> ans){
-        TrieNode temp = root; 
         if(startIndex == endIndex + 1){
-            StringBuffer sb = new StringBuffer();
-            for(String word : inner){
-                sb.append(word + " ");
-            }
-            sb.setLength(sb.length() - 1);
-            ans.add(sb.toString());
+            ans.add(String.join(" ",inner));
         }
+        TrieNode temp = root; 
         for(int i=startIndex;i<=endIndex;i++){
             int ind = s.charAt(i) - 'a';
             if(temp.childs[ind] != null){
