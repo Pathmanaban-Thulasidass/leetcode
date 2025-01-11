@@ -124,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -141,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
+| [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -213,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -242,6 +245,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Binary Search
 |  |
 | ------- |
