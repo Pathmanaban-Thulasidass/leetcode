@@ -157,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
@@ -343,5 +344,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0002-add-two-numbers) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
