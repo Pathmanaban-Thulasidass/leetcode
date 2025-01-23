@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -27,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -52,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -355,11 +358,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
