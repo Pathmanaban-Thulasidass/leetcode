@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -35,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -65,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
