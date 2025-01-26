@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -43,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -60,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -76,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -414,6 +418,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2509-minimize-xor](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2509-minimize-xor) |
 ## Graph
 |  |
