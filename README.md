@@ -149,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
