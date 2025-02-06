@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -303,6 +304,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -455,6 +457,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
@@ -465,6 +468,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
