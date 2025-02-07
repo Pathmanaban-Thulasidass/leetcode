@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
@@ -195,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
+| [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -306,6 +308,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
+| [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
