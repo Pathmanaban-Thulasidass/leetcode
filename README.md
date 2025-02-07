@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -81,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -468,6 +470,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
 |  |
