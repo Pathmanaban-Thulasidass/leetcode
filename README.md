@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -461,6 +463,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Shortest Path
@@ -473,6 +476,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
