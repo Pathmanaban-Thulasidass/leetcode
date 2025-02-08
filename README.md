@@ -272,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
+| [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -403,6 +405,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -492,4 +495,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
