@@ -96,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -493,6 +495,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
