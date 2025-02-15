@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -71,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -135,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -214,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -490,6 +494,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0871-keys-and-rooms) |
@@ -505,10 +510,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
