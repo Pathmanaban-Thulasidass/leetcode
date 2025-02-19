@@ -152,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0945-snakes-and-ladders](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0971-shortest-bridge) |
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1039-find-the-town-judge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1039-find-the-town-judge) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
@@ -342,6 +343,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1039-find-the-town-judge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1039-find-the-town-judge) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -501,6 +503,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
