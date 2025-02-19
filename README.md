@@ -229,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -477,6 +478,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Linked List
 |  |
 | ------- |
