@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0881-loud-and-rich) |
 | [0971-shortest-bridge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -146,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0881-loud-and-rich](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
@@ -502,6 +504,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1300-critical-connections-in-a-network) |
@@ -530,6 +533,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Topological Sort
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0881-loud-and-rich) |
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
