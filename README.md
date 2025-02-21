@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -55,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -87,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -113,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -297,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
@@ -349,6 +354,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
