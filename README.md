@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -226,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0020-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
@@ -348,6 +350,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0139-word-break) |
@@ -382,6 +385,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
