@@ -132,6 +132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
@@ -374,6 +375,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
@@ -409,6 +411,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
