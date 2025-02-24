@@ -215,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0972-knight-dialer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0972-knight-dialer) |
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
