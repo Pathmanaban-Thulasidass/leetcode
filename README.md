@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
@@ -323,6 +324,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0037-sudoku-solver) |
 | [0289-game-of-life](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -353,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
@@ -510,6 +513,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
