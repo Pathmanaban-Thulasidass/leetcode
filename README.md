@@ -314,6 +314,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
@@ -462,6 +463,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Queue
 |  |
