@@ -225,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 ## String
@@ -299,6 +300,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -604,4 +606,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
