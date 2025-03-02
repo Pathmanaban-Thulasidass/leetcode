@@ -461,6 +461,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -634,4 +635,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
