@@ -317,6 +317,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Enumeration
 |  |
 | ------- |
