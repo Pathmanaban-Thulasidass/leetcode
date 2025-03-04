@@ -1,18 +1,16 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
-        return helper(0,0,n);
+        return helper(n);
     }
-    public boolean helper(int pow,long sum,int n){
-        if(pow == 17){
-            return sum == n;
-        }
-        if(sum == n)
+    public boolean helper(int n){
+        if(n == 1)
             return true;
-        boolean pick = helper(pow + 1,(sum + (long)Math.pow(3,pow)),n);
-        if(pick){
-            return true;
+        if(n % 3 == 0){
+            return helper(n / 3);
         }
-        boolean notPick = helper(pow + 1,sum, n);
-        return notPick;
+        if((n - 1) % 3 == 0){
+            return helper((n-1) / 3);
+        }
+        return false;
     }
 }
