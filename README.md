@@ -152,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -349,6 +350,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0208-implement-trie-prefix-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
@@ -654,4 +656,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1185-find-in-mountain-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
