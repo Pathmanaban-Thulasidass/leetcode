@@ -664,4 +664,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
