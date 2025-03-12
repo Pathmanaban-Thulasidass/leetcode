@@ -680,6 +680,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1258-article-views-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
