@@ -673,4 +673,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0595-big-countries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1258-article-views-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
