@@ -671,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1153-product-sales-analysis-i) |
