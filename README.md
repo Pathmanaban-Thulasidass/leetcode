@@ -215,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3483-alternating-groups-ii) |
@@ -612,6 +613,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2509-minimize-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
 |  |
@@ -630,6 +632,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
@@ -646,6 +649,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
