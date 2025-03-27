@@ -217,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -442,6 +443,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -471,6 +473,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
