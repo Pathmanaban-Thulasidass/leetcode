@@ -203,6 +203,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -257,6 +258,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
+| [2262-solving-questions-with-brainpower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## String
 |  |
 | ------- |
