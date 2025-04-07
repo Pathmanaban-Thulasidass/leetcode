@@ -164,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0498-diagonal-traverse) |
@@ -249,6 +250,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0300-longest-increasing-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
