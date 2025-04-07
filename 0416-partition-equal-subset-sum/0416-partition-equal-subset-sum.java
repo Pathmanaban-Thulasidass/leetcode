@@ -19,10 +19,8 @@ class Solution {
         }
         if (dp[index][curSum] != null)
             return dp[index][curSum];
-        boolean pick = helper(index - 1, curSum + nums[index],total, nums, dp);
-        if(pick)
+        if(helper(index - 1, curSum + nums[index],total, nums, dp))
             return true;
-        boolean notPick = helper(index - 1, curSum, total,nums, dp);
-        return dp[index][curSum] = pick || notPick;
+        return dp[index][curSum] = helper(index - 1, curSum, total,nums, dp);
     }
 }
