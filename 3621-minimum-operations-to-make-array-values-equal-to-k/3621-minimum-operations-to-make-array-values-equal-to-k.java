@@ -11,8 +11,6 @@ class Solution {
                 count++;
             }
         }
-        if(freq[k] == n)
-            return 0;
-        return count == 0 ? -1 : count; 
+        return count; 
     }
 }
