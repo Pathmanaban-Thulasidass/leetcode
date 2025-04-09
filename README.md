@@ -235,6 +235,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -462,6 +463,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
