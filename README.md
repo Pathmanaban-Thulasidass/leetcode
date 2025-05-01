@@ -236,6 +236,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2721-sum-of-distances) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -401,6 +402,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2721-sum-of-distances) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
@@ -530,6 +532,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -568,6 +571,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Two Pointers
 |  |
 | ------- |
