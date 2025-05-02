@@ -275,6 +275,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0646-maximum-length-of-pair-chain](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0868-push-dominoes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0972-knight-dialer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0972-knight-dialer) |
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -312,6 +313,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0583-delete-operation-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0868-push-dominoes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0868-push-dominoes) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -575,6 +577,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
