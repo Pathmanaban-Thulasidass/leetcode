@@ -192,6 +192,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1185-find-in-mountain-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -486,6 +487,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1039-find-the-town-judge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1039-find-the-town-judge) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -550,6 +552,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
