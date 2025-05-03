@@ -187,6 +187,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0971-shortest-bridge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0971-shortest-bridge) |
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1039-find-the-town-judge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
@@ -351,6 +352,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
