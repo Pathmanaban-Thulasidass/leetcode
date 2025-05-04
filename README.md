@@ -214,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2165-plates-between-candles](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2165-plates-between-candles) |
@@ -407,6 +408,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2165-plates-between-candles) |
 | [2240-intervals-between-identical-elements](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2249-count-the-hidden-sequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -499,6 +501,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2240-intervals-between-identical-elements](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2240-intervals-between-identical-elements) |
@@ -542,6 +545,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
