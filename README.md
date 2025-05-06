@@ -216,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2048-build-array-from-permutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -464,6 +465,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2048-build-array-from-permutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
