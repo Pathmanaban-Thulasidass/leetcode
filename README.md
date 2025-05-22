@@ -252,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -303,6 +304,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -353,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -381,6 +384,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2509-minimize-xor](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2509-minimize-xor) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Math
 |  |
