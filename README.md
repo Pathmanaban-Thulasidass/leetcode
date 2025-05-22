@@ -303,6 +303,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -354,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -398,6 +400,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
@@ -585,6 +589,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
