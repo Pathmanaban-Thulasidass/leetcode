@@ -300,6 +300,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0972-knight-dialer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0972-knight-dialer) |
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
