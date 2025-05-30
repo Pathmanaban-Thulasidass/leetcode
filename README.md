@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -802,6 +803,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2793-count-the-number-of-complete-components](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
