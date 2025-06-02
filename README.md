@@ -248,6 +248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -585,6 +586,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Sorting
 |  |
 | ------- |
@@ -658,6 +660,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2165-plates-between-candles](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -866,6 +869,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -884,11 +888,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Database
 |  |
 | ------- |
@@ -914,4 +920,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
