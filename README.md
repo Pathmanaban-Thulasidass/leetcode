@@ -210,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1388-greatest-sum-divisible-by-three](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -310,6 +311,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -781,6 +783,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -889,4 +892,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2087-confirmation-rate) |
+## Bitmask
+|  |
+| ------- |
+| [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->
