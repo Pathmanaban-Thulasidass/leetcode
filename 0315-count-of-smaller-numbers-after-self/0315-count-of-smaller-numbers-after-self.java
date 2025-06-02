@@ -4,12 +4,19 @@ class Solution {
     public List<Integer> countSmaller(int[] nums) {
         int n = nums.length;
         List<Integer> ans = new ArrayList<>();
-        SegTree segTree = new SegTree(20001); // for range [-10000 to 10000] mapped to [0 to 20000]
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for(int i=0;i<n;i++){
+            min = Math.min(min,nums[i]);
+            max = Math.max(max,nums[i]);
+        }
+        int len = max - min + 1;
+        SegTree segTree = new SegTree(len);
         for (int i = n - 1; i >= 0; i--) {
-            int mappedIndex = nums[i] + 10000;
-            int temp = segTree.find(0, mappedIndex - 1, 0, 20000, 0);
+            int mappedIndex = nums[i] - min;
+            int temp = segTree.find(0, mappedIndex - 1, 0, len, 0);
             ans.add(0,temp);
-            segTree.update(mappedIndex, 0, 20000, 0);
+            segTree.update(mappedIndex, 0, len, 0);
         }
         return ans;
     }
