@@ -377,6 +377,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -430,6 +431,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2649-count-total-number-of-colored-cells](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3321-type-of-triangle) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
@@ -628,6 +630,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
