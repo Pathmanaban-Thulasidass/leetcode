@@ -385,6 +385,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3194-find-words-containing-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -420,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
@@ -580,6 +582,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -716,6 +719,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2317-count-collisions-on-a-road](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2317-count-collisions-on-a-road) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -742,6 +746,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
