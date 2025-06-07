@@ -12,7 +12,6 @@ class Solution {
         for(int i=0;i<n;i++){
             if(s.charAt(i) == '*'){
                 Pair cur = pq.poll();
-                System.out.println(cur.index);
                 taken[cur.index] = true;
                 taken[i] = true;
             }
