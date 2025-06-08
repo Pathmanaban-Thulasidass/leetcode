@@ -3,17 +3,19 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         int val = 1;
         for(int i=1;i<=9;i++){
-            helper(i,n,ans);
+            if(i <= n)
+                helper(i,n,ans);
+            else
+                break;
         }
         return ans;
     }
     public void helper(int val,int n,List<Integer> ans){
-        if(val > n){
-            return;
-        }
         ans.add(val);
         for(int i=0;i<=9;i++){
-            helper((val * 10) + i,n,ans);
+            int next = (val * 10) + i;
+            if(next <= n)
+                helper(next,n,ans);
         }
     }
 }
