@@ -429,6 +429,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -453,6 +454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
