@@ -236,6 +236,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2165-plates-between-candles](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2165-plates-between-candles) |
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
