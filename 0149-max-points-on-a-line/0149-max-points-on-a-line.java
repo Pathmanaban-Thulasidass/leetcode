@@ -1,36 +1,35 @@
 class Solution {
     public int maxPoints(int[][] points) {
         int n = points.length;
-        int max = 1;
+        int ans = 0;
         for (int i = 0; i < n; i++) {
-            Map<String, Integer> map = new HashMap<>();
-            int localMax = 0;
+            Map<Double, Integer> map = new HashMap<>();
+            int max = 0;
+            int infinityCount = 0; // Line Parallel to x-axis
+            int zeroCount = 0; // Line Parallel to y-axis
             for (int j = i + 1; j < n; j++) {
                 int x1 = points[i][0];
                 int y1 = points[i][1];
                 int x2 = points[j][0];
                 int y2 = points[j][1];
-                int dx = x2 - x1;
-                int dy = y2 - y1;
-                int gcd = gcd(dx, dy);
-                dx /= gcd;
-                dy /= gcd;
-                // Normalize slope direction (to handle -1/2 and 1/-2 as same)
-                if (dx < 0) {
-                    dx = -dx;
-                    dy = -dy;
+                if(x1 == x2){
+                    infinityCount++;
+                    continue;
                 }
-                String slope = dy + "/" + dx;
-                map.put(slope, map.getOrDefault(slope, 0) + 1);
-                localMax = Math.max(localMax, map.get(slope));
+                if(y1 == y2){
+                    zeroCount++;
+                    continue;
+                }
+                double dx = x2 - x1;
+                double dy = y2 - y1;
+                double slope = dy / dx;
+                map.put(slope,map.getOrDefault(slope,0) + 1);
+                max = Math.max(max,map.get(slope));
             }
-            max = Math.max(max, localMax + 1);
+            ans = Math.max(ans,infinityCount + 1);
+            ans = Math.max(ans,zeroCount + 1);
+            ans = Math.max(ans, max + 1);
         }
-        return max;
-    }
-
-    public int gcd(int a, int b) {
-        if (b == 0) return a;
-        return gcd(b, a % b);
+        return ans;
     }
 }
