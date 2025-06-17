@@ -192,6 +192,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0646-maximum-length-of-pair-chain](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0842-card-flipping-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0842-card-flipping-game) |
 | [0881-loud-and-rich](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0883-car-fleet) |
@@ -572,6 +573,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0525-contiguous-array) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
+| [0842-card-flipping-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0842-card-flipping-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0991-array-of-doubled-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0991-array-of-doubled-pairs) |
