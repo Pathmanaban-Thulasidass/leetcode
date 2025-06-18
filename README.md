@@ -353,6 +353,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0058-length-of-last-word](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
@@ -712,6 +713,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
