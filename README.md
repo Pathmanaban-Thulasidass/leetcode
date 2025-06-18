@@ -280,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -436,6 +437,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
@@ -655,6 +657,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
