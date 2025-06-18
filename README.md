@@ -345,6 +345,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
@@ -710,6 +711,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0868-push-dominoes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -811,6 +813,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
