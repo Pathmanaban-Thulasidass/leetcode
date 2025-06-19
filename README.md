@@ -515,6 +515,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -770,6 +771,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0020-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0394-decode-string) |
