@@ -357,6 +357,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0125-valid-palindrome) |
@@ -768,6 +769,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0394-decode-string) |
