@@ -363,6 +363,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0208-implement-trie-prefix-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -579,6 +580,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0525-contiguous-array) |
@@ -676,6 +678,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0383-ransom-note) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
