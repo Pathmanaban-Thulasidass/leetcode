@@ -255,6 +255,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -432,6 +433,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2509-minimize-xor) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -654,6 +656,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
