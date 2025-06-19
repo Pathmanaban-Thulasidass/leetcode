@@ -579,6 +579,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -867,6 +868,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
