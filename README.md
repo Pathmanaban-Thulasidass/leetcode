@@ -167,6 +167,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0174-dungeon-game) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
@@ -482,6 +483,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0525-contiguous-array) |
@@ -693,6 +695,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -730,6 +733,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2211-k-radius-subarray-averages](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2211-k-radius-subarray-averages) |
