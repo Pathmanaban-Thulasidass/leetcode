@@ -159,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
@@ -574,6 +575,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -913,6 +915,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
