@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -45,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -91,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
+| [0226-invert-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -133,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0226-invert-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
