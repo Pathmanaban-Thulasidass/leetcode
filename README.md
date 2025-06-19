@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -50,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0565-array-nesting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
@@ -94,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0407-trapping-rain-water-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -133,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0904-leaf-similar-trees) |
