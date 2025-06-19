@@ -455,6 +455,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0048-rotate-image](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -576,6 +577,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0140-word-break-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0229-majority-element-ii) |
@@ -725,6 +727,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0202-happy-number) |
 | [0868-push-dominoes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
