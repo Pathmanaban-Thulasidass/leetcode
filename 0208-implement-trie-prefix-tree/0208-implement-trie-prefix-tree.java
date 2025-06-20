@@ -9,10 +9,11 @@ class Trie {
         int n = word.length();
         TrieNode temp = root;
         for(int i=0;i<n;i++){
-            int ind = word.charAt(i) - 'a';
-            if(temp.nodes[ind] == null)
-                temp.nodes[ind] = new TrieNode();
-            temp = temp.nodes[ind];
+            int index = word.charAt(i) - 'a';
+            if(temp.nodes[index] == null){
+                temp.nodes[index] = new TrieNode();
+            }
+            temp = temp.nodes[index];
         }
         temp.isEnd = true;
     }
@@ -21,10 +22,11 @@ class Trie {
         int n = word.length();
         TrieNode temp = root;
         for(int i=0;i<n;i++){
-            int ind = word.charAt(i) - 'a';
-            if(temp.nodes[ind] == null)
+            int index = word.charAt(i) - 'a';
+            if(temp.nodes[index] == null){
                 return false;
-            temp = temp.nodes[ind];
+            }
+            temp = temp.nodes[index];
         }
         return temp.isEnd;
     }
@@ -33,10 +35,11 @@ class Trie {
         int n = prefix.length();
         TrieNode temp = root;
         for(int i=0;i<n;i++){
-            int ind = prefix.charAt(i) - 'a';
-            if(temp.nodes[ind] == null)
+            int index = prefix.charAt(i) - 'a';
+            if(temp.nodes[index] == null){
                 return false;
-            temp = temp.nodes[ind];
+            }
+            temp = temp.nodes[index];
         }
         return true;
     }
