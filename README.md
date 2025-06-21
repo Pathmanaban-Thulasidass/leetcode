@@ -376,6 +376,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0115-distinct-subsequences) |
@@ -479,6 +480,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
@@ -580,6 +582,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
@@ -909,6 +912,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0067-add-binary) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
