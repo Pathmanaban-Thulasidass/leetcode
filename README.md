@@ -415,6 +415,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -590,6 +591,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2048-build-array-from-permutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
