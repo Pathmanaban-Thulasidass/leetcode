@@ -274,6 +274,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -774,6 +775,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0917-boats-to-save-people](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0917-boats-to-save-people) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
