@@ -325,6 +325,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0072-edit-distance) |
@@ -374,6 +375,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -920,6 +922,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0010-regular-expression-matching) |
 | [0394-decode-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
