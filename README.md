@@ -243,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -808,6 +809,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0239-sliding-window-maximum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2211-k-radius-subarray-averages](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -850,6 +852,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -860,6 +863,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
@@ -874,6 +878,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Game Theory
 |  |
@@ -1012,6 +1017,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
