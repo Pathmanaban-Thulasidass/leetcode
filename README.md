@@ -468,6 +468,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1026-string-without-aaa-or-bbb](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -507,6 +508,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1500-count-largest-group](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
