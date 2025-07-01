@@ -445,6 +445,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
