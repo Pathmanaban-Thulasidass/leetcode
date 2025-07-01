@@ -362,6 +362,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
@@ -416,6 +417,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1880-largest-merge-of-two-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -653,6 +655,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1500-count-largest-group](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -947,6 +950,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0137-single-number-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0137-single-number-ii) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2509-minimize-xor) |
