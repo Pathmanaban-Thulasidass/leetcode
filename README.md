@@ -283,6 +283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2358-number-of-ways-to-split-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -733,6 +734,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
