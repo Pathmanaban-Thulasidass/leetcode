@@ -270,6 +270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2139-detect-squares](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2139-detect-squares) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2165-plates-between-candles](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2165-plates-between-candles) |
@@ -582,6 +583,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
+| [2139-detect-squares](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
+| [2139-detect-squares](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2139-detect-squares) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2240-intervals-between-identical-elements) |
@@ -773,6 +776,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2139-detect-squares](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2139-detect-squares) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
