@@ -529,6 +529,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
@@ -624,6 +625,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2317-count-collisions-on-a-road](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -957,6 +959,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0010-regular-expression-matching) |
 | [0394-decode-string](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0394-decode-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -971,6 +974,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2700-substring-xor-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2700-substring-xor-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
