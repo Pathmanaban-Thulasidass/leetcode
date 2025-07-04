@@ -532,6 +532,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -543,6 +544,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0204-count-primes) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
