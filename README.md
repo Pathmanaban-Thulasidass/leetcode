@@ -220,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0713-subarray-product-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0842-card-flipping-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0842-card-flipping-game) |
+| [0860-design-circular-queue](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0860-design-circular-queue) |
 | [0881-loud-and-rich](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0883-car-fleet) |
@@ -583,6 +584,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0304-range-sum-query-2d-immutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
@@ -887,6 +889,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -971,6 +974,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
