@@ -15,18 +15,23 @@
  */
 class Solution {
     public String tree2str(TreeNode root) {
-        String temp = helper(root);
-        temp = temp.substring(1,temp.length() - 1);
-        return temp;
+        StringBuffer sb = new StringBuffer();
+        helper(root,sb);
+        return sb.toString();
     }
-    public String helper(TreeNode root){
+    public void helper(TreeNode root,StringBuffer sb){
         if(root == null)
-            return "";
-        String leftTree = helper(root.left);
-        if(root.left == null && root.right != null){
-            leftTree = "()";
+            return;
+        sb.append(root.val + "");
+        if(root.left != null || root.right != null){
+            sb.append("(");
+            helper(root.left,sb);
+            sb.append(")");
         }
-        String rightTree = helper(root.right);
-        return "(" + root.val + leftTree + rightTree + ")";
+        if(root.right != null){
+            sb.append("(");
+            helper(root.right,sb);
+            sb.append(")");
+        }
     }
 }
