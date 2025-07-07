@@ -272,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1972-rotating-the-box](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
@@ -598,6 +599,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0860-design-circular-queue](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -699,6 +701,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2104-operations-on-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2139-detect-squares) |
