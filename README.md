@@ -271,6 +271,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1925-count-nice-pairs-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1972-rotating-the-box](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1972-rotating-the-box) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -764,6 +765,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -825,6 +827,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2165-plates-between-candles](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -922,6 +925,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1955-seat-reservation-manager](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1955-seat-reservation-manager) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1143,4 +1147,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0149-max-points-on-a-line) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
