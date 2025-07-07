@@ -91,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -135,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -1041,6 +1043,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1064,6 +1067,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
