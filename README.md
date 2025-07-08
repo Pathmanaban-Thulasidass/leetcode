@@ -1139,6 +1139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1182-game-play-analysis-iv](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1390-average-selling-price) |
