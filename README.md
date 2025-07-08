@@ -1152,6 +1152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1942-primary-department-for-each-employee](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bitmask
 |  |
