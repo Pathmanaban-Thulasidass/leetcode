@@ -1132,6 +1132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1153-product-sales-analysis-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
