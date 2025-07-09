@@ -1144,6 +1144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1292-immediate-food-delivery-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
