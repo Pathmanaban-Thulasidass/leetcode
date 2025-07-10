@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -49,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0226-invert-binary-tree) |
@@ -98,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0127-word-ladder) |
@@ -145,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
