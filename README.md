@@ -310,6 +310,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -660,6 +661,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -720,6 +722,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2240-intervals-between-identical-elements](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2700-substring-xor-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2700-substring-xor-queries) |
@@ -782,6 +785,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -938,6 +942,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
