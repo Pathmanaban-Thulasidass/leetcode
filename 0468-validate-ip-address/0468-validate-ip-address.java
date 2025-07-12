@@ -34,7 +34,6 @@ class Solution {
     public boolean isIPV6(String queryIP){
         int n = queryIP.length();
         String sArr[] = queryIP.split(":");
-        System.out.println(Arrays.toString(sArr));
         if(sArr.length != 8)
             return false;
         if(queryIP.charAt(n - 1) == ':' || queryIP.charAt(0) == ':')
