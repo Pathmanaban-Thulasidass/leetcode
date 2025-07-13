@@ -313,6 +313,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2472-build-a-matrix-with-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -522,6 +523,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2509-minimize-xor) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -795,6 +797,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -873,6 +876,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1972-rotating-the-box](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
