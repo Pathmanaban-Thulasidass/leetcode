@@ -339,6 +339,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3321-type-of-triangle) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
@@ -606,6 +607,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2691-count-vowel-strings-in-ranges](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2721-sum-of-distances) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Design
@@ -654,6 +656,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
