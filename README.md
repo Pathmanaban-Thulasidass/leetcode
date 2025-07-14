@@ -282,6 +282,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1977-minimum-interval-to-include-each-query](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2055-describe-the-painting](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2055-describe-the-painting) |
@@ -403,6 +404,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1761-count-sorted-vowel-strings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2176-parallel-courses-iii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
