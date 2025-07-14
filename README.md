@@ -550,6 +550,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0227-basic-calculator-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1028,6 +1029,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0355-design-twitter](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0355-design-twitter) |
 | [0838-design-linked-list](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
