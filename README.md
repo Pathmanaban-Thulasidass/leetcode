@@ -252,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1324-where-will-the-ball-fall](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -646,6 +647,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0971-shortest-bridge](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1242-matrix-block-sum) |
+| [1324-where-will-the-ball-fall](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1396-count-servers-that-communicate](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -671,6 +673,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1184-car-pooling) |
+| [1324-where-will-the-ball-fall](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1342-queens-that-can-attack-the-king](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2048-build-array-from-permutation](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2048-build-array-from-permutation) |
