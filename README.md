@@ -457,6 +457,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1026-string-without-aaa-or-bbb](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1238-alphabet-board-path](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1238-alphabet-board-path) |
 | [1250-longest-common-subsequence](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -725,6 +726,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1140-distant-barcodes](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1140-distant-barcodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1238-alphabet-board-path](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1238-alphabet-board-path) |
 | [1308-smallest-string-with-swaps](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
