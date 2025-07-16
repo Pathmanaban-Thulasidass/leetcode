@@ -3,16 +3,6 @@ class Solution {
         int n = nums.length;
         int oddCount = 0;
         int evenCount = 0;
-        int max = 0;
-        for(int i=0;i<n;i++){
-            if(nums[i] % 2 == 0){
-                evenCount++;
-            }
-            else{
-                oddCount++;
-            }
-        }
-        max = Math.max(evenCount,oddCount);
         boolean isOdd1 = true;
         boolean isOdd2 = false;
         int count1 = 0;
@@ -34,7 +24,13 @@ class Solution {
                 count2++;
                 isOdd2 = true;
             }
+            if(nums[i] % 2 == 0){
+                evenCount++;
+            }
+            else{
+                oddCount++;
+            }
         }
-        return Math.max(max,Math.max(count1,count2));
+        return Math.max(Math.max(oddCount,evenCount),Math.max(count1,count2));
     }
 }
