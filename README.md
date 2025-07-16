@@ -351,6 +351,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3430-count-days-without-meetings](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -415,6 +416,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Pathmanaban-Thulasidass/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
